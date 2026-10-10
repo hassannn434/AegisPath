@@ -73,6 +73,7 @@ AegisPath/
 
  ### Live Demo and output
  Live Demo Link- http://127.0.0.1:8001/docs
+
  Screenshots -
  <img width="1914" height="850" alt="image" src="https://github.com/user-attachments/assets/b8dad479-69b3-4d80-8b7e-6025183b0eea" />
  <img width="1919" height="803" alt="image" src="https://github.com/user-attachments/assets/7b4f291e-4748-4a8e-a906-bb7749e9e5c9" />
